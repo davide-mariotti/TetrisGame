@@ -23,7 +23,7 @@ Una versione del popolare gioco di puzzle Tetris, in cui i giocatori devono coll
 
 1. Clona il repository:
 
-git clone https://github.com/your-username/tetris.git
+git clone https://github.com/davide-mariotti/TetrisGame.git
 
 2. Naviga nella directory del progetto:
 
